@@ -1,1 +1,1 @@
-# badges.json
+# badges
